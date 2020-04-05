@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "dockly": "^3.14.4",
+    "global": "^4.4.0",
+    "prettier": "^2.0.2"
+  }
+}
